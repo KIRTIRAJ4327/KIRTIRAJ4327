@@ -57,7 +57,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KIRTIRAJ4327&show_icons=true&theme=gruvbox&hide_border=true" alt="Kirtiraj's GitHub Stats" />
 </div>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRTIRAJ4327&theme=tokyonight&hide_border=true" alt="Kirtiraj's Contribution Streak" />
+</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRTIRAJ4327&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
