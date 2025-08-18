@@ -165,8 +165,6 @@
   <p><em>Always open to collaborating on innovative AI projects and discussing emerging technologies!</em></p>
 </div>
 
-  <!-- Activity Graph -->
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRTIRAJ4327&theme=tokyo-night&hide_bo
-  rder=true" alt="Contribution Graph" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRTIRAJ4327&theme=dracula&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</div>
