@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages & Core Technologies
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -28,7 +28,7 @@
 </div>
 
 ### AI/ML & Data Science
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
@@ -37,7 +37,7 @@
 </div>
 
 ### Frameworks & Tools
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -45,7 +45,7 @@
 </div>
 
 ### Cloud & DevOps
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -53,18 +53,15 @@
 </div>
 
 ## 📊 GitHub Stats
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KIRTIRAJ4327&show_icons=true&theme=dracula&hide_border=true" alt="Kirtiraj's GitHub Stats" style="max-width: 100%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRTIRAJ4327&theme=dracula&hide_border=true" alt="Kirtiraj's Contribution Streak" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRTIRAJ4327&layout=compact&theme=dracula&hide_border=true" alt="Kirtiraj's Top Languages" style="max-width: 100%;"/>
+</div>
 
+## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KIRTIRAJ4327&show_icons=true&theme=gruvbox&hide_border=true" alt="Kirtiraj's GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRTIRAJ4327&theme=tokyonight&hide_border=true" alt="Kirtiraj's Contribution Streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRTIRAJ4327&layout=compact&theme=dracula&hide_border=true" alt="Kirtiraj's Top Languages" />
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KIRTIRAJ4327/KIRTIRAJ4327/output/github-contribution-grid-snake.svg" alt="Kirtiraj's Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRTIRAJ4327&theme=dracula&hide_border=true&area=true" alt="Kirtiraj's Contribution Graph" />
 </div>
 
 ## 🏆 Featured Projects
@@ -115,8 +112,7 @@
 - Created intelligent targeting systems using ML for audience segmentation
 
 ## 🎓 Certifications & Learning
-
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"/>
   <img src="https://img.shields.io/badge/IBM_AI_Fundamentals-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI"/>
   <img src="https://img.shields.io/badge/Python_Bootcamp-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -138,8 +134,7 @@
 - 🤖 Contributing to **Open Source AI** projects and communities
 
 ## 📫 Let's Connect!
-
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://linkedin.com/in/kirtirajsinhatodariya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -168,8 +163,3 @@
   <h3>🚀 "Building the future, one algorithm at a time" 🤖</h3>
   <p><em>Always open to collaborating on innovative AI projects and discussing emerging technologies!</em></p>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRTIRAJ4327&theme=dracula&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-</div>
-
