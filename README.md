@@ -63,6 +63,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRTIRAJ4327&layout=compact&theme=dracula&hide_border=true" alt="Kirtiraj's Top Languages" />
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KIRTIRAJ4327/KIRTIRAJ4327/output/github-contribution-grid-snake.svg" alt="Kirtiraj's Contribution Snake" />
+</div>
 
 ## 🏆 Featured Projects
 
