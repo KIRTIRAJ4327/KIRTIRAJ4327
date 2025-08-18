@@ -165,9 +165,8 @@
   <p><em>Always open to collaborating on innovative AI projects and discussing emerging technologies!</em></p>
 </div>
 
-  <!-- Snake Animation -->
+  <!-- Activity Graph -->
   <div align="center">
-    <img
-  src="https://raw.githubusercontent.com/KIRTIRAJ4327/KIRTIRAJ4327/output/github-contribution-grid-snake.svg"
-  alt="Snake Animation" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRTIRAJ4327&theme=tokyo-night&hide_bo
+  rder=true" alt="Contribution Graph" />
   </div>
