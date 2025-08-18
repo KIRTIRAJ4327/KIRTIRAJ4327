@@ -165,7 +165,9 @@
   <p><em>Always open to collaborating on innovative AI projects and discussing emerging technologies!</em></p>
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KIRTIRAJ4327/KIRTIRAJ4327/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+  <!-- Snake Animation -->
+  <div align="center">
+    <img
+  src="https://raw.githubusercontent.com/KIRTIRAJ4327/KIRTIRAJ4327/output/github-contribution-grid-snake.svg"
+  alt="Snake Animation" />
+  </div>
