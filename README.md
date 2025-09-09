@@ -138,7 +138,7 @@
   <a href="https://linkedin.com/in/kirtirajsinhatodariya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://kirtirajsinh-portfolio.web.app">
+  <a href="https://kirtirajsinhportfolio.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:kirtirajsinhatodariya@email.com">
